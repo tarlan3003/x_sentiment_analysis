@@ -26,7 +26,6 @@ This project focuses on the development and evaluation of machine learning and d
 
 #### How to Use:
 - Clone the repository to your local machine.
-- Install the required dependencies listed in the `requirements.txt` file.
 - Run the provided scripts or notebooks to train and evaluate different models on hate speech datasets.
 - Experiment with various preprocessing techniques and model configurations to optimize performance.
 - Explore the results and contribute to ongoing research efforts aimed at combating hate speech online.
