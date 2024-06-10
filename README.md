@@ -1,5 +1,7 @@
 ### Sentiment Analysis for X(Twitter)
 
+![Alt text](STK160_X_Twitter_004.jpg.webp)
+
 
 #### Description:
 This project focuses on the development and evaluation of machine learning and deep learning models for hate speech detection and classification on social media platforms. Hate speech poses a significant challenge in maintaining a safe and inclusive online environment, necessitating effective content moderation strategies. By leveraging various algorithms and models, we aim to build robust systems capable of accurately identifying and mitigating instances of hate speech.
