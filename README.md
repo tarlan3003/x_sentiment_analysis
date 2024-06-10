@@ -1,5 +1,7 @@
 ### Sentiment Analysis for X(Twitter)
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theverge.com%2F2023%2F7%2F29%2F23812780%2Ftweet-change-name-post-x&psig=AOvVaw1Jl7RKI5udi4E5_NK1RtMq&ust=1718134454743000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjlnezj0YYDFQAAAAAdAAAAABAK)
+
 #### Description:
 This project focuses on the development and evaluation of machine learning and deep learning models for hate speech detection and classification on social media platforms. Hate speech poses a significant challenge in maintaining a safe and inclusive online environment, necessitating effective content moderation strategies. By leveraging various algorithms and models, we aim to build robust systems capable of accurately identifying and mitigating instances of hate speech.
 
